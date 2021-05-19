@@ -4,4 +4,6 @@ elseif game.PlaceId == 171391948 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KPRAAHUE/CarHub/main/vehiclesimobfuscated.lua'))()
 elseif game.PlaceId == 3351674303 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/KPRAAHUE/CarHub/main/drivingempireobfuscated.lua'))()
+elseif game.PlaceId == 4923142893 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KPRAAHUE/CarHub/main/acceleratex.lua'))()
 end
