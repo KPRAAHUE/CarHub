@@ -6,7 +6,7 @@ Discord server : https://discord.gg/swFbKrc7Qm
 - Dorrow#0001
 - alohabeach#3448 
 - coola#6969
-- BasedWalter#8951
+- Walter#5555
 - sjonks#5139
 
 We welcome you with open arms to the carhub community! 😃
