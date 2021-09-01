@@ -1,6 +1,6 @@
 # CarHub
-A free hub for vehicle games in roblox. 
-Discord server : https://discord.gg/swFbKrc7Qm
+A paid(free in the past) hub for vehicle games in roblox. 
+Discord server : https://discord.gg/carhub
 
 # Developers
 - `Dorrow#0001`
