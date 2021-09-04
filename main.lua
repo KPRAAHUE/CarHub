@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("script is down")
+game:GetService("Players").LocalPlayer:Kick("NEW SERVER : https://discord.gg/7MyHPkHDjx join for new script link.")
