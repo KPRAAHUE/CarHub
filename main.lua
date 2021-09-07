@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("discord.gg/ZZTkWHyEfA for the new loadstring!")
+game:GetService("Players").LocalPlayer:Kick("ZZTkWHyEfA for the new script!")
