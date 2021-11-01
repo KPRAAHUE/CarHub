@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("join discord.gg/8ztbvfQGJZ for the new script!")
+game:GetService("Players").LocalPlayer:Kick("join discord.gg/carhub or discord.gg/VhrB6CXXwE for the new script!")
